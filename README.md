@@ -1,0 +1,1 @@
+This repo is a collection of the projects I built following [The Odin Project](https://www.theodinproject.com/) curriculum.
