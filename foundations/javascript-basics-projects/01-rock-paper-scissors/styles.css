@@ -1,0 +1,12 @@
+#scores p {
+    font-weight: bold;
+}
+
+#results {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    display: none;
+}
